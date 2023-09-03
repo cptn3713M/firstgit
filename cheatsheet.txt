@@ -12,4 +12,10 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 add this key to your github account
 git remote add origin 
 git push origin master
+-----------to update file and content on github-----
+git status
+git add .
+git commit -m " this the msg box"
+git push origin mster 
+ok
 
